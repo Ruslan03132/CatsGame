@@ -1,13 +1,17 @@
 {
   "files": {
-    "main.css": "/CatsGame/static/css/main.1c0d28e8.css",
+    "main.css": "/CatsGame/static/css/main.b57be440.css",
     "main.js": "/CatsGame/static/js/main.83324e2e.js",
+    "static/media/back-cats.svg": "/CatsGame/static/media/back-cats.1112cdb5cfca3e861d8b.svg",
+    "static/media/ribbon-with-stars.svg": "/CatsGame/static/media/ribbon-with-stars.0e718b8a25258753b17e.svg",
+    "static/media/clouds.svg": "/CatsGame/static/media/clouds.3ec730eaecb37cf8e08f.svg",
+    "static/media/check.svg": "/CatsGame/static/media/check.9673c1d007251868c5a2.svg",
     "index.html": "/CatsGame/index.html",
-    "main.1c0d28e8.css.map": "/CatsGame/static/css/main.1c0d28e8.css.map",
+    "main.b57be440.css.map": "/CatsGame/static/css/main.b57be440.css.map",
     "main.83324e2e.js.map": "/CatsGame/static/js/main.83324e2e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1c0d28e8.css",
+    "static/css/main.b57be440.css",
     "static/js/main.83324e2e.js"
   ]
 }
