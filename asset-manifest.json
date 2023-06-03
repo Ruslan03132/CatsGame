@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/CatsGame/static/css/main.1c0d28e8.css",
+    "main.js": "/CatsGame/static/js/main.83324e2e.js",
+    "index.html": "/CatsGame/index.html",
+    "main.1c0d28e8.css.map": "/CatsGame/static/css/main.1c0d28e8.css.map",
+    "main.83324e2e.js.map": "/CatsGame/static/js/main.83324e2e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1c0d28e8.css",
+    "static/js/main.83324e2e.js"
+  ]
+}
